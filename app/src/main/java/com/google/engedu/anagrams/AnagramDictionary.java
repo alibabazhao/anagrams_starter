@@ -123,20 +123,6 @@ public class AnagramDictionary {
                     result.addAll(wordsInDic);
             }
         }
-//        for(char c='a'; c<'z'; c++){
-//            String newWord=word+c;
-//            String sortWord=sortLetters(newWord);
-//
-//            if(lettersToWord.containsKey(sortWord))
-//                result.add(word);
-//        }
-//        for(int i=0; i<lettersToWord.size(); i++) {
-//            sortWord = sortLetters(wordList.get(i));
-//            if (lettersToWord.get(i).length() == wordList.get(i).length())
-//                if (sortLetters(lettersToWord.get(i)).equalsIgnoreCase(sortWord))
-//                    result.add(lettersToWord.get(i));
-//        }
-
         return result;
     }
 

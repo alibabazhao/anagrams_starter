@@ -12,7 +12,7 @@ Time spent: **5** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **play with a word from the dictionary**
-* [x] User can **create as many words as possible that contain all the letters of the given word plus one additional letter **
+* [x] User can **create as many words as possible that contain all the letters of the given word plus one additional letter**
 * [x] User can **can give up and see the words that they did not guess**
 
 The following **optional** features are implemented:
